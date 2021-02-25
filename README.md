@@ -1,4 +1,4 @@
-# Speach-Recognition-Using-Tensorflow
+# Speech-Recognition-Using-Tensorflow
 
 Implementation of a seq2seq model for speech recognition. Architecture similar to "Listen, Attend and Spell".
 https://arxiv.org/pdf/1508.01211.pdf
